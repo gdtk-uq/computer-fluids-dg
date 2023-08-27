@@ -1,0 +1,35 @@
+= UQ Computer & Fluids discussion group
+Rowan Gollan; Kyle Damm; Travis Mitchell
+
+== Scope for discussion group
+The purpose of the computers and fluids discussion group is to meet and discuss ideas for the numerical simulation of fluids.
+
+We'll start by defining what is out of scope: research results.
+There are plenty of other forums for presenting research: research seminars and conferences, for example.
+
+What's in-scope?
+Everything else.
+Discussions will range from numerical methods, tools and libraries, novel computer architectures,
+new languages, and workflows for HPC use or visualisation.
+Basically, all the techniques and tools that support modelling and simulation work.
+
+== Format 
+Discussion sessions will run an hour.
+A standard format would be no more than 30 minutes from a presenter followed by group discussion.
+Discussion can be structured in other manners as appropriate:
+as a demo, as an interactive tutorial, a mini-lecture series or presenting a research paper (on methods).
+
+== Speakers list
+If you have an idea for a topic, write to the list conveners to be added as a speaker.
+
+== Upcoming schedule
+
+* Tues 05 Sep, 2:30p--3:30p : _Lukasz Laniewski-Wollk_ in 08-388 (Goddard Building)
+* Tues 19 Sep, 2:30p--3:30p : _Lachlan Whyborn_ in 78-222 (General Purpose South Building)
+* Tues 03 Oct, 2:30p--3:30p : _Nick Gibbons_ in 78-222 (General Purpose South Building)
+* Tues 17 Oct, 2:30p--3:30p : _Visitor to UQ_ in 78-222 (General Purpose South Building)
+* Tues 31 Oct, 2:30p--3:30p : _Dmytro Sashko_ in 78-222 (General Purpose South Building)
+
+
+
+
